@@ -1,2 +1,2 @@
 # ReclaimedLands
-It a mod
+It a mod.
